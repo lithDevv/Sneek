@@ -1,2 +1,4 @@
 # Sneek
-Sneek virtual assistant
+```
+Sneek is a basic virtual assistant writen in python3 
+```
