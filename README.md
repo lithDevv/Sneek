@@ -10,3 +10,5 @@ python3 sneek.py
 features :
 Run system commands
 ```
+![image](https://user-images.githubusercontent.com/115331024/196309002-60e6db9c-fae7-402c-bfad-098b0069b675.png)
+
