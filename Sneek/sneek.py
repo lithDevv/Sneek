@@ -6,7 +6,7 @@
 #╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝ 
 
 
-import pyttsx3, datetime, json, requests, base64, subprocess, random
+import pyttsx3, datetime, requests, subprocess
 import speech_recognition as sr
 from colorama import Fore
 from os import system
